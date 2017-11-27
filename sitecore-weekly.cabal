@@ -1,13 +1,12 @@
 name:                sitecore-weekly
-version:             0.1.0.0
+version:             1.0.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/sitecore-weekly#readme
-license:             BSD3
-license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2017 Author name here
+homepage:            http://sitecore-weekly.github.io
+license:             CC BY-SA 4.0
+author:              Alexandr Serogin and Konstantin Bibik
+maintainer:          alexandrserogin@gmail.com
+copyright:           2017 aserogin
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
