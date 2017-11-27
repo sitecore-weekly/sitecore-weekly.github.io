@@ -8,7 +8,7 @@ cache:
 
 branches:
   only:
-    - Hakyll
+    - hakyll
 
 before_install:
   # Download and unpack the stack executable
