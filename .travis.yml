@@ -4,7 +4,7 @@ language: c
 
 cache:
   directories:
-    - ~/.stack
+    - $HOME/.stack/
 
 branches:
   only:
