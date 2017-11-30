@@ -56,3 +56,12 @@ Welcome to the first post of Sitecore Weekly! Sitecore is a customer experience 
 ### New Releases
 
 * [Revolver 3.2 Released](https://adeneys.wordpress.com/2017/11/26/revolver-3-2-released/)
+
+### Call for participation
+
+Currently we don't know any project(s) to help with. Own a project ? Need help? Let [us know](https://twitter.com/aserogin) or [Email](mailto:sitecoreweekly@gmail.com)  with your beginner-friendly issues to get them included.
+
+
+### Jobs
+
+Sadly we aren’t currently aware of any Sitecore job openings. Are you looking to hire a Sitecore developer? If so, consider advertising with us. Just contact me in [twitter](https://twitter.com/aserogin)!
