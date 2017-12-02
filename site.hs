@@ -30,13 +30,13 @@ main = hakyll $ do
       $   pandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
 
-  create ["rss.xml"] $ do
-    route idRoute
-    compile $
-      loadAllSnapshots "posts/*" "content"
-      >>= fmap (take 10)
-      .   recentFirst
-      >>= renderRss (feedConfiguration "All posts") feedCtx
+  -- create ["rss.xml"] $ do
+  --   route idRoute
+  --   compile $
+  --     loadAllSnapshots "posts/*" "content"
+  --     >>= fmap (take 10)
+  --     .   recentFirst
+  --     >>= renderRss (feedConfiguration "All posts") feedCtx
 
   match "index.html" $ do
     route idRoute
