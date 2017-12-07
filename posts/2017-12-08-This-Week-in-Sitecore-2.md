@@ -35,9 +35,11 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [12 December 2017, The Challenges of Gaining Contextual Insight](https://www.sitecore.net/landing/xc/2017/ga-the-challenges-of-gaining-contextual-insight)
 * [12 December 2017, SUGNL Meeting](http://www.sugnl.net/agenda/sugnl-meeting-december-2017-achmea.aspx)
 * [13 December 2017, THE POWER OF BEST OF BREED: INTEGRATING SAP HYBRIS + SITECORE](https://www.epam.com/the-power-of-best-of-breed-integrating-sap-hybris-and-sitecore)
+* [13 December 2017, December MKE SUG - Holiday Get Together](https://www.meetup.com/Milwaukee-Sitecore-Developers-Meetup/events/245527831/)
 * [14 December 2017, How To Influence And Automate Google AdWords Buys And Bidding](http://www.paragon-inc.com/events/adding-adwords-to-the-experience)
 * [31 January 2018, Bristol User Group](https://www.meetup.com/sug-uk/events/245661454/)
 * [14 March 2018, The EXM Experience: Tips, Tricks, and How to Get Started](https://www.meetup.com/Sitecore-User-Group-New-England/events/245643862/)
+* [23 April 2018, SUGCON EUROPE 2018](http://www.sugcon.eu/registration2018/)
 
 ### New Releases
 
@@ -45,7 +47,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 
 ### Call for participation
 
-    Currently we don't know any project(s) to help with. Own a project ? Need help? Let [us know](https://twitter.com/aserogin) or [Email](mailto:sitecoreweekly@gmail.com)  with your beginner-friendly issues to get them included.
+Currently we don't know any project(s) to help with. Own a project ? Need help? Let [us know](https://twitter.com/aserogin) or [Email](mailto:sitecoreweekly@gmail.com)  with your beginner-friendly issues to get them included.
 
 
 ### Jobs
