@@ -24,11 +24,23 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [Sitecore Symposium- Technical Boot camp and daily notes for four days](http://jitendrasoni.blogspot.co.uk/2017/12/sitecore-symposium-day-1-technical-boot.html)
 * [SXA 1.5 hotfix: UploadMediaDialog](https://alan-null.github.io/2017/12/sxa-hotfix-upload-media-dialog)
 * [Work less, do more with Sitecore and Microsoft Flow](http://sitecoresnippets.blogspot.com/2017/12/work-less-do-more-with-sitecore-and.html)
+* [Sitecore replace spaces with dashes in URL’s](https://briancaos.wordpress.com/2017/12/08/sitecore-replace-spaces-with-dashes-in-urls/)
+* [Sitecore PowerShell examples](https://gist.github.com/Adamsimsy/30dc60df837c1400e6fccd814b3dc752)
 
 ### Videos
 
 * [Sitecore 9 - Step by Step installation through SIF (Sitecore Installation Framework)](https://www.youtube.com/watch?v=NXw0DRTJIls)
 * [Sitecore 9- Forms - A complete view and setup](https://www.youtube.com/watch?v=PMtLjFVA9TQ)
+* [Custom Personalization in Sitecore](https://www.youtube.com/watch?v=VSlV7h1wAEw)
+* [Sitecore Profiling Part 1](https://www.youtube.com/watch?v=nxMKl5Br1_Y)
+* [Sitecore Profiling Part 2](https://www.youtube.com/watch?v=few8VLvu0lw)
+* [Sitecore Profiling Part 3](https://www.youtube.com/watch?v=PPp2TIaauGM)
+* [Sitecore Profiling Part 4](https://www.youtube.com/watch?v=NF2ajCCPplE)
+* [Inserting Code Snippet into Sitecore RTE toolbar](https://www.youtube.com/watch?v=S6T8feOVFW4)
+* [Sitecore User Group Poland Introduction by Marek Godawski and Łukasz Skowroński - SUGPL 2017](https://www.youtube.com/watch?v=x4766w8hTqA)
+* [Sitecore 9 xConnect and Marketing Automation - Danil Raschupkin & Alexei Vershalovich - SUGPL 2017](https://www.youtube.com/watch?v=yU6A0OeycBw)
+* [Sitecore 9 - what's new for Developers, DevOps - Tomasz Juranek - SUGPL 2017](https://www.youtube.com/watch?v=i2Cj25qyxLQ)
+* [100% Availability - Scale your system landscape - Sebastian Winter - SUGPL 2017](https://www.youtube.com/watch?v=2G1_WaxzAvc)
 
 ### Upcoming Events
 
@@ -53,5 +65,6 @@ Currently we don't know any project(s) to help with. Own a project ? Need help? 
 ### Jobs
 
 * [Software Engineer - Sitecore Developer](https://www.connectivedx.com/connect/careers/software-engineer-sitecore-developer)
+* [Program Manager - Digital](https://www.talendrome.com/jobs/5743868070854656)
 
 Are you looking to hire a Sitecore developer? If so, consider advertising with us. Just contact me in [twitter](https://twitter.com/aserogin)!
