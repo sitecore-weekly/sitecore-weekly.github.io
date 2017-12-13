@@ -28,7 +28,7 @@ main = hakyll $ do
     route idRoute
     compile
       $   pandocCompiler
-      >>= loadAndApplyTemplate "templates/default.html" defaultContext
+      >>= loadAndApplyTemplate "templates/default.html" errorCtx
 
   -- create ["rss.xml"] $ do
   --   route idRoute
@@ -44,7 +44,6 @@ main = hakyll $ do
       posts <- recentFirst =<< loadAll "posts/*"
       let indexCtx =
             listField "posts" postCtx (return posts)
-              `mappend` constField "title" "Home"
               `mappend` defaultContext
 
       getResourceBody
@@ -57,7 +56,15 @@ main = hakyll $ do
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
-postCtx = dateField "date" "%B %e, %Y" `mappend` defaultContext
+postCtx = 
+  dateField "date" "%B %e, %Y"
+    `mappend` defaultContext
+
+errorCtx :: Context String
+errorCtx =
+  constField "title" "Sitecore Weekly"
+    `mappend` constField "description" "description"
+    `mappend` defaultContext
 
 feedCtx :: Context String
 feedCtx = mconcat

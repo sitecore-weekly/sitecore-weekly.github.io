@@ -1,5 +1,6 @@
 ---
 title: This Week in Sitecore 1
+description: This Week in Sitecore 1, weekly summary of what's going on in Sitecore community.
 ---
 
 Welcome to the first post of Sitecore Weekly! Sitecore is a customer experience management platform that provides web content management and multichannel marketing automation software. This is a weekly summary of what’s going on in its community. Want something mentioned? Contact me in [twitter](https://twitter.com/aserogin) or by [email](mailto:sitecoreweekly@gmail.com)
