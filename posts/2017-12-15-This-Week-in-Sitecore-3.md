@@ -7,6 +7,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 
 ### News and Announcements
 * [Sitecore 9 Developer training](https://www.sitecore.net/services-and-support/training/classroom-training.aspx)
+* [Announcing the Sitecore Experience Cloud](https://www.sitecore.net/products/experience-cloud/for-marketing)
 
 ### Blogs
 * [SXA 1.5 - Shared sites and Delegated areas](https://unaverhoeven.ghost.io/2017/12/10/sxa-1-5-shared-sites-and-delegated-areas/)
@@ -24,9 +25,17 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [Raw Values: How Data Is Stored In Sitecore](https://www.sitecorespark.com/article/raw-values-how-data-is-stored-in-sitecore)
 * [Create Items in Master DB from CD Environment](https://abarhoum.wordpress.com/2017/12/11/create-items-in-master-db-from-cd-environment/)
 * [Sitecore Multiple Partial Word Search with SOLR](https://www.brimit.com/blog/sitecore-multiple-partial-word-search-solr)
+* [Sitecore 9 Forms and AJAX with SXA](https://citizensitecore.com/2017/12/13/sitecore-9-forms-and-ajax-with-sxa/)
+* [SITECORE XDB - CAPTURING CONTACT DATA FROM NON-SITECORE SITE - PART 2 - FXM CONFIGURATION AND REVIEW](http://kurbegovic.com/blog/sitecore-xdb-capturing-contact-data-from-non-sitecore-site-part-2-fxm-configuration-and-review/)
+* [Let there be forms! Sitecore Forms!](http://coreofsite.com/2017/12/13/let-forms/)
 
 ### Videos
 * [Creating a Campaign in Sitecore](https://www.youtube.com/watch?v=-CWuI1Xsvj8)
+* [Installing Sitecore 9 | St. Louis Sitecore User Group | #STLSitecoreUG](https://www.youtube.com/watch?v=qe3gUqojb20)
+* [Sitecore Page Event Tracking with Web API | St. Louis Sitecore User Group | #STLSitecoreUG](https://www.youtube.com/watch?v=mWlquV4hOf4)
+* [#1NLab17 - Building an Account-Based Marketing Technology Strategy](https://www.youtube.com/watch?v=20p534lF07Q)
+* [What's new in Sitecore 9 - November Meetup - 2017](https://www.youtube.com/watch?v=Ci9QbYssMuE)
+* [Sitecore 9 Marketing Automation: First Look | St. Louis Sitecore User Group | #STLSitecoreUG](https://www.youtube.com/watch?v=S-xp7ewyGAA)
 
 ### Upcoming Events
 * [19 December 2017, Sitecore deployments: understanding and minimizing risks + Sitecore Commerce](https://www.meetup.com/SUG-BR/events/245393645)
