@@ -46,6 +46,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 ### Upcoming Events
 * [19 December 2017, Sitecore deployments: understanding and minimizing risks + Sitecore Commerce](https://www.meetup.com/SUG-BR/events/245393645)
 * [03 January 2018, January Meetup of the Queen City Sitecore User Group](https://www.meetup.com/Queen-City-Sitecore-User-Group/events/245802250/)
+* [17 January 2018, Danish Sitecore Developer User Group meetup](https://www.meetup.com/Danish-Sitecore-Developer-Group/events/245936970/)
 * [31 January 2018, Bristol User Group](https://www.meetup.com/sug-uk/events/245661454/)
 * [14 March 2018, The EXM Experience: Tips, Tricks, and How to Get Started](https://www.meetup.com/Sitecore-User-Group-New-England/events/245643862/)
 * [23 April 2018, SUGCON EUROPE 2018](http://www.sugcon.eu/registration2018/)
