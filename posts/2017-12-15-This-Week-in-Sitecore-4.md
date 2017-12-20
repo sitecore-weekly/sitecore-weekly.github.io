@@ -1,6 +1,6 @@
 ---
-title: This Week in Sitecore 3
-description: This Week in Sitecore 3, weekly summary of what's going on in Sitecore community.
+title: This Week in Sitecore 4
+description: This Week in Sitecore 4, weekly summary of what's going on in Sitecore community.
 ---
 
 Welcome to the Sitecore Weekly! Sitecore is a customer experience management platform that provides web content management and multichannel marketing automation software. This is a weekly summary of what’s going on in its community. Want something mentioned? Contact me in [twitter](https://twitter.com/aserogin) or by [email](mailto:sitecoreweekly@gmail.com)
