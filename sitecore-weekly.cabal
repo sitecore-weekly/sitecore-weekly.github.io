@@ -7,7 +7,7 @@ license:             MIT
 license-file:        LICENSE.md
 author:              Alexandr Serogin and Konstantin Bibik
 maintainer:          alexandrserogin@gmail.com
-copyright:           2017 aserogin
+copyright:           2017 aserogin & kot9
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
