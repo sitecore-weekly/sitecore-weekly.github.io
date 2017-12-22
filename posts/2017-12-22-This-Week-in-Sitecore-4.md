@@ -28,11 +28,13 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [Beyond Components: Improving the Sitecore Editing Experience](https://blogs.perficient.com/microsoft/2017/09/beyond-components-improving-the-sitecore-editing-experience/)
 * [Dockerizing Sitecore 9 XP0](http://jonnekats.nl/2017/dockerizing-sitecore-9-xp0/)
 * [Setting up Sitecore Roles in a Multisite Environment](http://www.from-sitecore-with-love.de/blog/2017/roles-in-multisite-environments)
+* [A First Look At Sitecore Speak 3](https://himynameistim.wordpress.com/2017/12/22/a-first-look-at-sitecore-speak-3/)
 
 ### Videos
 
 * [SUG-BR - 12-20-2017 - Live Streaming](https://www.youtube.com/watch?v=udMVag9PAB4)
 * [Upgrade to Sitecore 9: Why, When, What and How](https://www.youtube.com/watch?v=YZxorsB90dY)
+* [Online LASUG #5](https://www.youtube.com/watch?v=Dsey7rraljE)
 
 ### Upcoming Events
 * [19 December 2017, Sitecore deployments: understanding and minimizing risks + Sitecore Commerce](https://www.meetup.com/SUG-BR/events/245393645)
@@ -43,6 +45,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [31 January 2018, Bristol User Group](https://www.meetup.com/sug-uk/events/245661454/)
 * [31 January 2018, Sitecore Commerce Bootup](https://www.meetup.com/Sitecore-User-Group-New-England/events/245261076/?eventId=245261076)
 * [07 February 2018, Meetup of the Queen City Sitecore User Group](https://www.meetup.com/Queen-City-Sitecore-User-Group/events/245970179/?eventId=245970179)
+* [22 February 2018, The One With The Marketing Sessions](https://www.meetup.com/Sitecore-User-Group-Belgium/events/246115242/)
 * [14 March 2018, The EXM Experience: Tips, Tricks, and How to Get Started](https://www.meetup.com/Sitecore-User-Group-New-England/events/245643862/)
 * [23 April 2018, SUGCON EUROPE 2018](http://www.sugcon.eu/registration2018/)
 * [Using Solr auto-suggest](https://doc.sitecore.net/sitecore%20experience%20platform/setting%20up%20and%20maintaining/search%20and%20indexing/using%20solr%20autosuggest)
