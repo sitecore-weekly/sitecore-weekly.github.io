@@ -37,7 +37,6 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [Online LASUG #5](https://www.youtube.com/watch?v=Dsey7rraljE)
 
 ### Upcoming Events
-* [19 December 2017, Sitecore deployments: understanding and minimizing risks + Sitecore Commerce](https://www.meetup.com/SUG-BR/events/245393645)
 * [03 January 2018, January Meetup of the Queen City Sitecore User Group](https://www.meetup.com/Queen-City-Sitecore-User-Group/events/245802250/)
 * [17 January 2018, Danish Sitecore Developer User Group meetup](https://www.meetup.com/Danish-Sitecore-Developer-Group/events/245936970/)
 * [18 January 2018, EVENT: Everything you need to know about Sitecore 9](https://www.digizuite.com/news-blog-archive/everything-you-need-to-know-sitecore-9-digital-asset-management)
@@ -48,8 +47,6 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [22 February 2018, The One With The Marketing Sessions](https://www.meetup.com/Sitecore-User-Group-Belgium/events/246115242/)
 * [14 March 2018, The EXM Experience: Tips, Tricks, and How to Get Started](https://www.meetup.com/Sitecore-User-Group-New-England/events/245643862/)
 * [23 April 2018, SUGCON EUROPE 2018](http://www.sugcon.eu/registration2018/)
-* [Using Solr auto-suggest](https://doc.sitecore.net/sitecore%20experience%20platform/setting%20up%20and%20maintaining/search%20and%20indexing/using%20solr%20autosuggest)
-* [Sitecore, data privacy and GDPR](https://www.sitecore.net/-/media/www/files/resources/white-papers/sitecorexp9-and-gdpr-wpltr.aspx)
 
 ### Call for participation
 
