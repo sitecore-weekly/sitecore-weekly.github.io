@@ -1,38 +1,36 @@
 ---
-title: This Week in Sitecore 5
-description: This Week in Sitecore 5, weekly summary of what's going on in Sitecore community.
+title: This Week in Sitecore 6
+description: This Week in Sitecore 6, weekly summary of what's going on in Sitecore community.
 ---
 
 Welcome to the Sitecore Weekly! Sitecore is a customer experience management platform that provides web content management and multichannel marketing automation software. This is a weekly summary of what’s going on in its community. Want something mentioned? Contact me in [twitter](https://twitter.com/aserogin) or by [email](mailto:sitecoreweekly@gmail.com)
 
+### New Release
+* [SitecoreInstallFramework 1.1.0](https://sitecore.myget.org/feed/sc-powershell/package/nuget/SitecoreInstallFramework)
+
 
 ### Blogs
 
-* [Track and profile a person’s behavior in real life using Sitecore](https://visionsincode.wordpress.com/2017/12/25/track-and-profile-a-persons-behavior-in-real-life-using-sitecore/)
-* [Install-Less Sitecore Installation](https://asmagin.com/2017/12/27/install-less-sitecore-installation/)
-* [Synthesis Solr Support Now Available (Beta)](http://www.benlipson.net/2017/12/synthesis-solr-support-now-available-beta/)
-* [Sitecore 9: Delete xDB Contact for GDPR Compliance](https://www.brimit.com/blog/Sitecore-9-delete-xDB-contact-gdpr-compliance)
-* [Sitecore 9 Installation using SIF – As easy as cooking a delicious meal](https://sitecorecompetencies.com/2017/12/21/sitecore-9-installation-using-sif-as-easy-as-cooking-a-delicious-meal/)
-* [Sitecore 9: Marketing Automation API - enrolling contacts](https://www.brimit.com/blog/sitecore-marketing-automation-api-enrolling-contacts)
-* [Issue deploying xConnect SQL shards on multi-machine setup](http://jonne.github.io/2017/sql-connection-issue-xconnect/)
-* [Contextual Marketing: Building Experiences with Sitecore Cloud](https://suyati.com/blog/contextual-marketing-building-experiences-sitecore-cloud/)
-* [SXA - Blog](https://alan-null.github.io/2017/12/sxa-blog)
-* [Schedule publishing with Sitecore Workflow](http://sitecoresolution.blogspot.ae/2017/12/schedule-publishing-with-sitecore-workflow.html)
-* [Is Your Sitecore Powershell RemoteAutomation Page Not Working?](http://sitecorejourney.nileshthakkar.in/2017/12/is-your-sitecore-powershell.html)
-* [How to make use of Sitecore Device detection for specific device layouts?](https://www.linkedin.com/pulse/how-make-use-sitecore-device-detection-specific-layouts-rohit-chopra/)
-* [How to make use of the robust Contact Data Model in Sitecore Experience Profile?](https://www.linkedin.com/pulse/how-make-use-robust-contact-data-model-sitecore-profile-rohit-chopra/)
-* [Sitecore 9 Forms – Google reCAPTCHA form element](http://blog.nikkipunjabi.com/2017/12/sitecore-9-forms-recaptcha-form-element.html)
-* [Sitecore Marketing Operations API](https://www.linkedin.com/pulse/sitecore-marketing-operations-api-rohit-chopra/)
-
+* [Sitecore publish:end and publish:end:remote](https://briancaos.wordpress.com/2018/01/04/sitecore-publishend-and-publishendremote/)
+* [Sitecore Experience Profile And The “Anonymous” Records Problem - Part 1](http://sitecoreinfo.blogspot.com/2018/01/sitecore-experience-profile-and.html)
+* [Sitecore Experience Profile - Identify and Merge Contact when submitting WFFM form - Part 2](http://sitecoreinfo.blogspot.com/2018/01/sitecore-experience-profile-identify.html)
+* [Downloading the Media item on WFFM from submission](https://sitecoretricks.wordpress.com/2018/01/03/downloading-the-media-item-on-wffm-from-submission/)
+* [Sitecore 9 installation with existing SSL](https://xtremdev.wordpress.com/2018/01/04/sitecore-9-installation-with-existing-ssl/)
+* [Up and Running Quickly with Coveo for Sitecore Cloud](https://neilkillen.com/2018/01/03/up-and-running-quickly-with-coveo-for-sitecore-cloud/)
+* [Sentiments and Tagging with Sitecore + Microsoft Cognitive Services](https://marcotanainsights.wordpress.com/2018/01/04/sentiments-and-tagging-with-sitecore-microsoft-cognitive-services/)
+* [Sitecore Powershell: Valid Page URLs Report](http://www.sitecoregabe.com/2018/01/sitecore-powershell-valid-page-urls.html)
+* [Simple Remote Events in Sitecore](https://sitecorerap.wordpress.com/2017/12/29/simple-remote-events-in-sitecore/)
+* [Creating a dynamic, multi-source, search enabled TreeList for Sitecore](http://web-matters.blogspot.co.uk/2017/12/sitecore-dynamic-multi-source-search-treelist.html)
+* [A Look Back at 2017 Trends in Experience Architecture](https://sitecorley.com/a-look-back-at-2017-trends-in-experience-architecture-59e12108dd4)
 
 
 ### Videos
-
-* [Dictionary in Sitecore](https://www.youtube.com/watch?v=3fDdqjP3VIA)
-
+* [Sitecore Experience Forms Walk-through](https://www.youtube.com/watch?v=rxijF1FJ8Mk)
+* [Sitecordial Sitecore Experience Marketing Training Ep 6 - Behavior-based Personalization](https://www.youtube.com/watch?v=uHDNLDtXp08)
+* [Ep. 47: Kamruz Jaman](https://www.youtube.com/watch?v=H-rBkbNj1ZA)
 
 ### Upcoming Events
-* [03 January 2018, January Meetup of the Queen City Sitecore User Group](https://www.meetup.com/Queen-City-Sitecore-User-Group/events/245802250/)
+* [16 January 2018, Dissecting Sitecore's DI Framework + Get the Most Out of TDS Classic 5.7](https://www.meetup.com/Sitecore-User-Group-Philadelphia/events/246495694/)
 * [17 January 2018, Danish Sitecore Developer User Group meetup](https://www.meetup.com/Danish-Sitecore-Developer-Group/events/245936970/)
 * [18 January 2018, EVENT: Everything you need to know about Sitecore 9](https://www.digizuite.com/news-blog-archive/everything-you-need-to-know-sitecore-9-digital-asset-management)
 * [18 January 2018, Sitecore User Group Belarus Meetup](https://www.meetup.com/Sitecore-User-Group-Belarus/events/246012898/?eventId=246012898)
@@ -50,6 +48,7 @@ Currently we don't know any project(s) to help with. Own a project ? Need help? 
 
 
 ### Jobs
+* [Technical Director](http://www.wearethink.com/careers/technical-director/)
 * [Software Engineer - Sitecore Developer](https://www.connectivedx.com/connect/careers/software-engineer-sitecore-developer)
 * [Sr. Project Manager](https://www.linkedin.com/jobs/view/516666462/)
 Are you looking to hire a Sitecore developer? If so, consider advertising with us. Just contact me in [twitter](https://twitter.com/aserogin)!
