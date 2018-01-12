@@ -32,7 +32,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 
 ### Videos
 * [Rightpoint Sitecore Symposium 2017 Recap](https://www.youtube.com/watch?v=Ua9hPbM1E3c)
-* [ntroduction to Presentation Details in Sitecore](https://www.youtube.com/watch?v=UviNUv4mMPQ)
+* [Introduction to Presentation Details in Sitecore](https://www.youtube.com/watch?v=UviNUv4mMPQ)
 
 ### Upcoming Events
 * [16 January 2018, Dissecting Sitecore's DI Framework + Get the Most Out of TDS Classic 5.7](https://www.meetup.com/Sitecore-User-Group-Philadelphia/events/246495694/)
@@ -59,4 +59,5 @@ Currently we don't know any project(s) to help with. Own a project ? Need help? 
 * [Sr. Project Manager](https://www.linkedin.com/jobs/view/516666462/)
 * [.Net Developers](https://careers.avanade.com/experienced/jobs/50411/Copenhagen-Net-Developers)
 * [Cloud / Infrastructure Consultant](https://careers.avanade.com/experienced/jobs/48621/Copenhagen-Cloud-Infrastructure-Consultant)
+
 Are you looking to hire a Sitecore developer? If so, consider advertising with us. Just contact me in [twitter](https://twitter.com/aserogin)!
