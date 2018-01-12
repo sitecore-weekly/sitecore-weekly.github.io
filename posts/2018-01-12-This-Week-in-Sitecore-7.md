@@ -57,7 +57,5 @@ Currently we don't know any project(s) to help with. Own a project ? Need help? 
 * [Technical Director](http://www.wearethink.com/careers/technical-director/)
 * [Software Engineer - Sitecore Developer](https://www.connectivedx.com/connect/careers/software-engineer-sitecore-developer)
 * [Sr. Project Manager](https://www.linkedin.com/jobs/view/516666462/)
-* [.Net Developers](https://careers.avanade.com/experienced/jobs/50411/Copenhagen-Net-Developers)
-* [Cloud / Infrastructure Consultant](https://careers.avanade.com/experienced/jobs/48621/Copenhagen-Cloud-Infrastructure-Consultant)
 
 Are you looking to hire a Sitecore developer? If so, consider advertising with us. Just contact me in [twitter](https://twitter.com/aserogin)!
