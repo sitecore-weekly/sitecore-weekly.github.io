@@ -16,19 +16,19 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 
 ### Blogs
 
-* [String.Split and int[] allocations](https://marcinjuraszek.com/2017/10/string-split-and-int-array-allocations.html)
 * [Sitecore search pages with all rendering fields](https://blog.horizontalintegration.com/2018/01/10/sitecore-search-pages-with-all-rendering-fields/)
 * [Introducing Email Experience Manager for the Sitecore Experience Platform 9](https://sitecorehacker.com/2018/01/08/introducing-exm-9-for-the-sitecore-experience-platform/)
 * [Using voice commands to add items to Sitecore. IFTTT: Complete walk through](https://nshackblog.wordpress.com/2018/01/08/using-voice-commands-to-add-items-to-sitecore-ifttt-complete-walk-through/)
 * [Using the OData Item Service in Sitecore 9 – Step by step](https://nshackblog.wordpress.com/2018/01/07/using-the-odata-item-service-in-sitecore-9-step-by-step/)
 * [A Sitecore 9 upgrade story](https://ggullentops.blogspot.com/2018/01/a-sitecore-9-upgrade-story.html)
 * [How to create a custom condition in Sitecore Commerce 8.2.1](http://blog.alpha-solutions.us/2018/01/how-to-create-a-custom-condition-in-sitecore-commerce-8-2-1/)
+* [String.Split and int[] allocations](https://marcinjuraszek.com/2017/10/string-split-and-int-array-allocations.html)
 * [Creating items into multiple locations using SPE](https://ankitjoshi2409.wordpress.com/2018/01/10/creating-items-into-multiple-locations-using-spe/)
 * [Working with Right-To-Left Languages in Sitecore Content Editor](https://sitecore.derekc.net/working-with-right-to-left-languages-in-sitecore-content-editor/)
 * [Sitecore 9 update 1 installation with SQL Server on a different server](https://xtremdev.wordpress.com/2018/01/08/sitecore-9-update-1-installation-with-sql-server-on-a-different-server/)
 * [Sitecore 9 uninstall, my take](https://xtremdev.wordpress.com/2018/01/09/sitecore-9-uninstall-my-take/)
 * [Tuning Sitecore Experience Accelerator (SXA) with React.Net](https://gary.wenneker.org/2018/01/04/sitecore-experience-accelerator/)
-
+* [Sitecore Experience Accelerator SXA 1.6: Snippets](https://ggullentops.blogspot.com/2018/01/sitecore-experience-accelerator-sxa-snippets.html)
 
 ### Videos
 * [Rightpoint Sitecore Symposium 2017 Recap](https://www.youtube.com/watch?v=Ua9hPbM1E3c)
@@ -57,6 +57,6 @@ Currently we don't know any project(s) to help with. Own a project ? Need help? 
 * [Technical Director](http://www.wearethink.com/careers/technical-director/)
 * [Software Engineer - Sitecore Developer](https://www.connectivedx.com/connect/careers/software-engineer-sitecore-developer)
 * [Sr. Project Manager](https://www.linkedin.com/jobs/view/516666462/)
-* [.Net Developers](https://careers.avanade.com/experienced/jobs/50411/Copenhagen-Net-Developers?lang=en-GB)
-* [Cloud / Infrastructure Consultant](https://careers.avanade.com/experienced/jobs/48621/Copenhagen-Cloud-Infrastructure-Consultant?lang=en-GB)
+* [.Net Developers](https://careers.avanade.com/experienced/jobs/50411/Copenhagen-Net-Developers)
+* [Cloud / Infrastructure Consultant](https://careers.avanade.com/experienced/jobs/48621/Copenhagen-Cloud-Infrastructure-Consultant)
 Are you looking to hire a Sitecore developer? If so, consider advertising with us. Just contact me in [twitter](https://twitter.com/aserogin)!
