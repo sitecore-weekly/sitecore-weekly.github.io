@@ -25,6 +25,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [String.Split and int[] allocations](https://marcinjuraszek.com/2017/10/string-split-and-int-array-allocations.html)
 * [Creating items into multiple locations using SPE](https://ankitjoshi2409.wordpress.com/2018/01/10/creating-items-into-multiple-locations-using-spe/)
 * [Working with Right-To-Left Languages in Sitecore Content Editor](https://sitecore.derekc.net/working-with-right-to-left-languages-in-sitecore-content-editor/)
+* [Custom Sitecore DocumentOptions with Solr](https://ggullentops.blogspot.com/2018/01/custom-sitecore-documentoptions-solr.html)
 * [Sitecore 9 update 1 installation with SQL Server on a different server](https://xtremdev.wordpress.com/2018/01/08/sitecore-9-update-1-installation-with-sql-server-on-a-different-server/)
 * [Sitecore 9 uninstall, my take](https://xtremdev.wordpress.com/2018/01/09/sitecore-9-uninstall-my-take/)
 * [Tuning Sitecore Experience Accelerator (SXA) with React.Net](https://gary.wenneker.org/2018/01/04/sitecore-experience-accelerator/)
