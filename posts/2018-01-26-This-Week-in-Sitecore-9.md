@@ -12,7 +12,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [Gartner Magic Quadrant for DXP 2018 ... Who's In Who's Out?](http://www.cms-connected.com/News-Archive/January-2018/Gartner-Magic-Quadrant-for-DXP-2018-Who-is-In-Who-is-Out)
 * [xDB Data Migration Tool Developer Guide](http://integrationsdn.sitecore.net/xDBDataMigrationTool/v2.0.1/)
 * [Running SXA? Contribute](https://github.com/alan-null/SXA.Index#sites-running-sxa)
-
+* [Sitecore & GDPR, XConnect & Marketing Automation, Introduction to Sitecore JSS for frontend and backend developers](http://www.sugnl.net/agenda/sugnl-meeting-januari-2018-colours.aspx#downloads)
 
 
 
@@ -35,10 +35,12 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [What are some changes for adding Feature in Sitecore Experience Accelerator 1.6?](https://www.linkedin.com/pulse/what-some-changes-adding-feature-sitecore-experience-16-rohit-chopra/)
 
 
+
 ### Videos
 * [SUG Bangalore - Sitecore Forms by Amitabh Vyas] (https://www.youtube.com/watch?v=ZWebnkIon2Y)
 * [Buckets in Sitecore](https://www.youtube.com/watch?v=HPPYgYxrYso)
 * [Build and Deployment Automation for Sitecore - Reto Hugi](https://www.youtube.com/watch?v=8sJgshWs5Tw)
+* [Coveo Webinar: Delivering relevance to your clients with Coveo for Sitecore](https://www.youtube.com/watch?v=6L4OQMm2Jig&feature=youtu.be)
 
 ### Upcoming Events
 * [31 January 2018, Bristol User Group](https://www.meetup.com/sug-uk/events/245661454/)
@@ -48,6 +50,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [07 February 2018, Meetup of the Queen City Sitecore User Group](https://www.meetup.com/Queen-City-Sitecore-User-Group/events/245970179/?eventId=245970179)
 * [07 February 2018, Sitecore User Group - Minneapolis/St. Paul - Q1 2018](https://www.meetup.com/SitecoreUser/events/246245116/)
 * [15 February 2018, Todd Mitchell + Alex Shyba + Lars Petersen Talk Sitecore 9 | Coveo And The Cloud](https://www.meetup.com/Sitecore-User-Group-SF-Bay-Area-Northern-California/events/246873974)
+* [Sitecore 9 Capabilities, Search with SOLR, and Coveo's Road to the Cloud](https://www.meetup.com/Sacramento-Sitecore-Users-Group/events/247162857/)
 * [22 February 2018, Sitecore Virtual Developer Day](https://www.sitecore.com/events/2018/svdd/sitecore-virtual-developer-day)
 * [22 February 2018, The One With The Marketing Sessions](https://www.meetup.com/Sitecore-User-Group-Belgium/events/246115242/)
 * [27 February 2018, Florida Sitecore User Group (Tampa)](https://www.meetup.com/Florida-Sitecore-User-Group/events/247157845/)
