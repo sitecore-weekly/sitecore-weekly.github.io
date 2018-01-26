@@ -6,7 +6,7 @@ description: This Week in Sitecore 9, weekly summary of what's going on in Sitec
 Welcome to the Sitecore Weekly! Sitecore is a customer experience management platform that provides web content management and multichannel marketing automation software. This is a weekly summary of what’s going on in its community. Want something mentioned? Contact me in [twitter](https://twitter.com/aserogin) or by [email](mailto:sitecoreweekly@gmail.com)
 
 ### News and Announcements
-* [Coveo for Sitecore Project Guide] (https://developers.coveo.com/display/public/SitecoreV4/Coveo+for+Sitecore+Project+Guide)
+* [Coveo for Sitecore Project Guide](https://developers.coveo.com/display/public/SitecoreV4/Coveo+for+Sitecore+Project+Guide)
 * [SUGCON 2018 Survey](https://www.surveymonkey.com/r/8X5YWT5)
 * [The early bird tickets for SUGCON are available](http://www.sugcon.eu/registration/)
 * [Gartner Magic Quadrant for DXP 2018 ... Who's In Who's Out?](http://www.cms-connected.com/News-Archive/January-2018/Gartner-Magic-Quadrant-for-DXP-2018-Who-is-In-Who-is-Out)
@@ -37,7 +37,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 
 
 ### Videos
-* [SUG Bangalore - Sitecore Forms by Amitabh Vyas] (https://www.youtube.com/watch?v=ZWebnkIon2Y)
+* [SUG Bangalore - Sitecore Forms by Amitabh Vyas](https://www.youtube.com/watch?v=ZWebnkIon2Y)
 * [Buckets in Sitecore](https://www.youtube.com/watch?v=HPPYgYxrYso)
 * [Build and Deployment Automation for Sitecore - Reto Hugi](https://www.youtube.com/watch?v=8sJgshWs5Tw)
 * [Coveo Webinar: Delivering relevance to your clients with Coveo for Sitecore](https://www.youtube.com/watch?v=6L4OQMm2Jig&feature=youtu.be)
@@ -63,6 +63,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [Sitecore Release Notes](https://github.com/Krusen/SitecoreReleaseNotes)
 * [Sitecore-Paker](https://github.com/asmagin/sitecore-packer)
 * [HelixBase](https://github.com/muso31/Helixbase)
+
 Own a project ? Need help? Let [us know](https://twitter.com/aserogin) or [Email](mailto:sitecoreweekly@gmail.com)  with your beginner-friendly issues to get them included.
 
 
