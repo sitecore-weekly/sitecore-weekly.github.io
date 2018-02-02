@@ -36,15 +36,15 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [07 February 2018, Meetup of the Queen City Sitecore User Group](https://www.meetup.com/Queen-City-Sitecore-User-Group/events/245970179/?eventId=245970179)
 * [07 February 2018, Sitecore User Group - Minneapolis/St. Paul - Q1 2018](https://www.meetup.com/SitecoreUser/events/246245116/)
 * [15 February 2018, Todd Mitchell + Alex Shyba + Lars Petersen Talk Sitecore 9 | Coveo And The Cloud](https://www.meetup.com/Sitecore-User-Group-SF-Bay-Area-Northern-California/events/246873974)
-* [16 February, Sitecore 9 Capabilities, Search with SOLR, and Coveo's Road to the Cloud](https://www.meetup.com/Sacramento-Sitecore-Users-Group/events/247162857/)
-* [21 February, Upgrading to Sitecore 9](https://www.meetup.com/sitecore-user-group-phoenix/events/246724254/)
+* [16 February 2018, Sitecore 9 Capabilities, Search with SOLR, and Coveo's Road to the Cloud](https://www.meetup.com/Sacramento-Sitecore-Users-Group/events/247162857/)
+* [21 February 2018, Upgrading to Sitecore 9](https://www.meetup.com/sitecore-user-group-phoenix/events/246724254/)
 * [22 February 2018, Sitecore Virtual Developer Day](https://www.sitecore.com/events/2018/svdd/sitecore-virtual-developer-day)
 * [22 February 2018, The One With The Marketing Sessions](https://www.meetup.com/Sitecore-User-Group-Belgium/events/246115242/)
 * [27 February 2018, Florida Sitecore User Group (Tampa)](https://www.meetup.com/Florida-Sitecore-User-Group/events/247157845/)
 * [01 March 2018, London March 2018 User Group](https://www.meetup.com/sug-uk/events/246691397/)
 * [14 March 2018, The EXM Experience: Tips, Tricks, and How to Get Started](https://www.meetup.com/Sitecore-User-Group-New-England/events/245643862/)
 * [21 March 2018, Sitecore Commerce 9 + Sitecore 9 Architecture and Scaling](https://www.meetup.com/Sitecore-User-Group-Denmark/events/246926574/)
-* [23 April 2018, SUGCON EUROPE 2018](http://www.sugcon.eu/registration2018/)
+* [23 April 2018, SUGCON EUROPE 2018](http://www.sugcon.eu/registration/)
 
 ### Call for participation
 * [Helix.Skeleton](https://github.com/trnktms/Helix.Skeleton)
