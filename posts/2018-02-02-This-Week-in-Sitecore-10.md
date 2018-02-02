@@ -12,6 +12,7 @@ Welcome to the Sitecore Weekly! Sitecore is a customer experience management pla
 * [Announcing the general availability of Azure Event Grid](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-event-grid/)
 * [Sitecore.WFFM 9.0.171209 available on nuget](https://sitecore.myget.org/feed/sc-packages/package/nuget/Sitecore.WFFM)
 * [Coveo for Sitecore Release Notes for January 2018 - 4.1.224.6](https://developers.coveo.com/display/public/SitecoreV4/Release+Notes+for+January+2018+-+4.1.224.6)
+
 ### Blogs
 * [Working with Content Search and Solr in Sitecore 9](https://mikael.com/2018/01/working-with-content-search-and-solr-in-sitecore-9/)
 * [We built a website in a day – Pt. 1](http://jockstothecore.com/we-built-a-website-in-a-day-part-1/)
