@@ -57,7 +57,6 @@ Own a project ? Need help? Let [us know](https://twitter.com/aserogin) or [Email
 * [NET Developer/(Sitecore)](https://www.freelancermap.com/it-projects/projects/development/1496276-projekt-net-developer-sitecore-noord-holland.html)
 * [Sitecore Developer - JASStek Inc](https://www.dice.com/jobs/detail/-/10504473/JKS0000111219)
 * [Senior Business Optimization Consultant](http://jobs.jobvite.com/sitecore/job/osqQ6fwy)
-* [Sitecore Developer](https://www.dice.com/jobs/detail/-/10336025/310483)
 * [.NET Developer (Sitecore)](https://www.akqa.com/careers/job/?id=958531)
 * [Mid/Senior .NET Developer](https://horizontalintegration.com/job-postings/job-detail?jid=26618)
 * [Senior Front End Developer](http://jobs.annexgroup.com/job-details/10472)
